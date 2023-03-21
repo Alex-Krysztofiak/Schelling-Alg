@@ -1,5 +1,6 @@
 # Schelling-Alg
 Alex Krysztofiak, Jason Rosales, Tien Dam
+
 A visualization of the Schelling's segregation model utilizing Python and the Mesa library.
 
 Python, Mesa library, Github, Agile Developement, Scrum
